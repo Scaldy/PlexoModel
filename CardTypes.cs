@@ -23,7 +23,7 @@ namespace Plexo
         [EnumMember]
         Prepaid=6,
 		[EnumMember]
-        Prepaga=7,
+        Prepaga=8,
         [EnumMember]
         Unknown=0
     }
